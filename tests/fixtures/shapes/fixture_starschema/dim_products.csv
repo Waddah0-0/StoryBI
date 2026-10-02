@@ -1,0 +1,4 @@
+product_key,product_name,category,unit_cost
+201,Cloud Server,Infrastructure,150.0
+202,Database Pro,Data,80.0
+203,Security Suite,Security,120.0

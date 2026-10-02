@@ -1,0 +1,6 @@
+respondent_id,feedback_category,sentiment
+R1,UI,Positive
+R2,Performance,Negative
+R3,UI,Neutral
+R4,Pricing,Negative
+R5,Support,Positive
